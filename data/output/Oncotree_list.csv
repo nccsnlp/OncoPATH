@@ -1,0 +1,885 @@
+,Code,Name,Tissue,Maintype
+0,OVARY,Ovary/Fallopian Tube,Ovary/Fallopian Tube,Ovarian/Fallopian Tube Cancer
+1,OOVC,"Ovarian Cancer, Other",Ovary/Fallopian Tube,Ovarian Cancer
+2,OCNOS,"Ovarian Choriocarcinoma, NOS",Ovary/Fallopian Tube,Ovarian Cancer
+3,HGONEC,High-Grade Neuroendocrine Carcinoma of the Ovary,Ovary/Fallopian Tube,Ovarian Cancer
+4,HGSFT,High-Grade Serous Fallopian Tube Cancer,Ovary/Fallopian Tube,Ovarian Cancer
+5,OVT,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,Ovarian Cancer
+6,EBOV,Endometrioid Borderlin Ovarian Tumor,Ovary/Fallopian Tube,Ovarian Cancer
+7,SOC,Serous Ovarian Cancer,Ovary/Fallopian Tube,Ovarian Cancer
+8,HGSOC,High-Grade Serous Ovarian Cancer,Ovary/Fallopian Tube,Ovarian Cancer
+9,LGSOC,Low-Grade Serous Ovarian Cancer,Ovary/Fallopian Tube,Ovarian Cancer
+10,BTOV,Brenner Tumor,Ovary/Fallopian Tube,Ovarian Cancer
+11,BTBEOV,"Brenner Tumor, Benign",Ovary/Fallopian Tube,Ovarian Cancer
+12,BTBOV,"Brenner Tumor, Borderline",Ovary/Fallopian Tube,Ovarian Cancer
+13,BTMOV,"Brenner Tumor, Malignant",Ovary/Fallopian Tube,Ovarian Cancer
+14,CCBOV,Clear Cell Borderline Ovarian Tumor,Ovary/Fallopian Tube,Ovarian Cancer
+15,OSMCA,Ovarian Seromucinous Carcinoma,Ovary/Fallopian Tube,Ovarian Cancer
+16,OSMAD,Ovarian Seromucinous Adenoma,Ovary/Fallopian Tube,Ovarian Cancer
+17,EOV,Endometrioid Ovarian Cancer,Ovary/Fallopian Tube,Ovarian Cancer
+18,SBOV,Serous Borderline Ovarian Tumor,Ovary/Fallopian Tube,Ovarian Cancer
+19,MOV,Mucinous Ovarian Cancer,Ovary/Fallopian Tube,Ovarian Cancer
+20,SBMOV,"Serous Borderline Ovarian Tumor, Micropapillary",Ovary/Fallopian Tube,Ovarian Cancer
+21,MXOV,Mixed Ovarian Carcinoma,Ovary/Fallopian Tube,Ovarian Cancer
+22,MBOV,Mucinous Borderline Ovarian Tumor,Ovary/Fallopian Tube,Ovarian Cancer
+23,CCOV,Clear Cell Ovarian Cancer,Ovary/Fallopian Tube,Ovarian Cancer
+24,SCCO,Small Cell Carcinoma of the Ovary,Ovary/Fallopian Tube,Ovarian Cancer
+25,OSMBT,Ovarian Seromucinous Borderline Tumor,Ovary/Fallopian Tube,Ovarian Cancer
+26,OCS,Ovarian Carcinosarcoma/Malignant Mixed Mesodermal Tumor,Ovary/Fallopian Tube,Ovarian Cancer
+27,OGCT,Ovarian Germ Cell Tumor,Ovary/Fallopian Tube,Germ Cell Tumor
+28,OIMT,Immature Teratoma,Ovary/Fallopian Tube,Germ Cell Tumor
+29,OPE,Polyembryoma,Ovary/Fallopian Tube,Germ Cell Tumor
+30,OMGCT,Mixed Germ Cell Tumor,Ovary/Fallopian Tube,Germ Cell Tumor
+31,OMT,Mature Teratoma,Ovary/Fallopian Tube,Germ Cell Tumor
+32,ODYS,Dysgerminoma,Ovary/Fallopian Tube,Germ Cell Tumor
+33,OEC,Embryonal Carcinoma,Ovary/Fallopian Tube,Germ Cell Tumor
+34,OYST,Yolk Sac Tumor,Ovary/Fallopian Tube,Germ Cell Tumor
+35,SCST,Sex Cord Stromal Tumor,Ovary/Fallopian Tube,Sex Cord Stromal Tumor
+36,SLCT,Sertoli-Leydig Cell Tumor,Ovary/Fallopian Tube,Sex Cord Stromal Tumor
+37,SCT,"Steroid Cell Tumor, NOS",Ovary/Fallopian Tube,Sex Cord Stromal Tumor
+38,GRCT,Granulosa Cell Tumor,Ovary/Fallopian Tube,Sex Cord Stromal Tumor
+39,OGBL,Gonadoblastoma,Ovary/Fallopian Tube,Sex Cord Stromal Tumor
+40,FT,Fibrothecoma,Ovary/Fallopian Tube,Sex Cord Stromal Tumor
+41,LYMPH,Lymphoid,Lymphoid,Lymphatic Cancer
+42,LNM,Lymphoid Neoplasm,Lymphoid,"Lymphatic Cancer, NOS"
+43,PTLD,Posttransplant Lymphoproliferative Disorders,Lymphoid,Posttransplant Lymphoproliferative Disorders
+44,CHLPTLD,Classical Hodgkin Lymphoma PTLD,Lymphoid,Posttransplant Lymphoproliferative Disorders
+45,PPTLD,Polymorphic PTLD,Lymphoid,Posttransplant Lymphoproliferative Disorders
+46,FHPTLD,Florid Follicular Hyperplasia PTLD,Lymphoid,Posttransplant Lymphoproliferative Disorders
+47,MPTLD,Monomorphic PTLD (B- and T-/NK-cell types),Lymphoid,Posttransplant Lymphoproliferative Disorders
+48,PHPTLD,Plasmacytic Hyperplasia PTLD,Lymphoid,Posttransplant Lymphoproliferative Disorders
+49,IMPTLD,Infectious Mononucleosis PTLD,Lymphoid,Posttransplant Lymphoproliferative Disorders
+50,BLL,B-Lymphoblastic Leukemia/Lymphoma,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma
+51,BLLRGA,B-Lymphoblastic Leukemia/Lymphoma with Recurrent Genetic Abnormalities,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma
+52,BLLBCRABL1L,"B-Lymphoblastic Leukemia/Lymphoma, BCR-ABL1 Like",Lymphoid,B-Lymphoblastic Leukemia/Lymphoma
+53,BLLKMT2A,B-Lymphoblastic Leukemia/Lymphoma with t(v;11q23.3);KMT2A Rearranged,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma
+54,BLLTCF3PBX1,B-Lymphoblastic Leukemia/Lymphoma with t(1;19)(q23;p13.3);TCF3-PBX1,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma
+55,BLLIL3IGH,B-Lymphoblastic Leukemia/Lymphoma with t(5;14)(q31.1;q32.3) IL3-IGH,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma
+56,BLLIAMP21,B-Lymphoblastic Leukemia/Lymphoma with iAMP21,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma
+57,BLLHYPER,B-Lymphoblastic Leukemia/Lymphoma with Hyperdiploidy,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma
+58,BLLHYPO,B-Lymphoblastic Leukemia/Lymphoma with Hypodiploidy,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma
+59,BLLBCRABL1,B-Lymphoblastic Leukemia/Lymphoma with t(9;22)(q34.1;q11.2);BCR-ABL1,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma
+60,BLLETV6RUNX1,B-Lymphoblastic Leukemia/Lymphoma with t(12;21)(p13.2;q22.1); ETV6-RUNX1,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma
+61,BLLNOS,"B-Lymphoblastic Leukemia/Lymphoma, NOS",Lymphoid,B-Lymphoblastic Leukemia/Lymphoma
+62,NHL,Non-Hodgkin Lymphoma,Lymphoid,Non-Hodgkin Lymphoma
+63,MBN,Mature B-Cell Neoplasms,Lymphoid,Mature B-Cell Neoplasms
+64,SPB,Solitary Plasmacytoma of Bone,Lymphoid,Mature B-Cell Neoplasms
+65,FL,Follicular Lymphoma,Lymphoid,Mature B-Cell Neoplasms
+66,ISFN,In Situ Follicular Neoplasia,Lymphoid,Mature B-Cell Neoplasms
+67,DFL,Duodenal-Type Follicular Lymphoma,Lymphoid,Mature B-Cell Neoplasms
+68,MCBCL,Monoclonal B-Cell Lymphocytosis,Lymphoid,Mature B-Cell Neoplasms
+69,LPL,Lymphoplasmacytic Lymphoma,Lymphoid,Mature B-Cell Neoplasms
+70,WM,Waldenstrom Macroglobulinemia,Lymphoid,Mature B-Cell Neoplasms
+71,BL,Burkitt Lymphoma,Lymphoid,Mature B-Cell Neoplasms
+72,PCLBCLLT,"Primary Cutaneous DLBCL, Leg Type",Lymphoid,Mature B-Cell Neoplasms
+73,EBVMCU,EBV Positive Mucocutaneous Ulcer,Lymphoid,Mature B-Cell Neoplasms
+74,DLBCLCI,DLBCL Associated with Chronic Inflammation,Lymphoid,Mature B-Cell Neoplasms
+75,BPLL,B-Cell Prolymphocytic Leukemia,Lymphoid,Mature B-Cell Neoplasms
+76,PCNSL,Primary DLBCL of the central nervous system,Lymphoid,Mature B-Cell Neoplasms
+77,BCLU,"B-Cell Lymphoma, Unclassifiable, with Features Intermediate between DLBCL and Classical Hodgkin lymphoma",Lymphoid,Mature B-Cell Neoplasms
+78,AHCD,Alpha Heavy-Chain Disease,Lymphoid,Mature B-Cell Neoplasms
+79,CLLSLL,Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma,Lymphoid,Mature B-Cell Neoplasms
+80,MHCD,Mu Heavy-Chain Disease,Lymphoid,Mature B-Cell Neoplasms
+81,PCFCL,Primary Cutaneous Follicle Center Lymphoma,Lymphoid,Mature B-Cell Neoplasms
+82,LYG,Lymphomatoid Granulomatosis,Lymphoid,Mature B-Cell Neoplasms
+83,HGBCL,"High-Grade B-Cell Lymphoma, NOS",Lymphoid,Mature B-Cell Neoplasms
+84,MGUS,Monoclonal Gammopathy of Undetermined Significance,Lymphoid,Mature B-Cell Neoplasms
+85,MGUSIGG,IgG,Lymphoid,Mature B-Cell Neoplasms
+86,MGUSIGA,IgA,Lymphoid,Mature B-Cell Neoplasms
+87,MGUSIGM,IgM,Lymphoid,Mature B-Cell Neoplasms
+88,BLL11Q,Burkitt-Like Lymphoma with 11q Aberration,Lymphoid,Mature B-Cell Neoplasms
+89,HHV8DLBCL,"HHV8 Positive DLBCL, NOS",Lymphoid,Mature B-Cell Neoplasms
+90,PMBL,Primary Mediastinal (Thymic) Large B-Cell Lymphoma,Lymphoid,Mature B-Cell Neoplasms
+91,PLBL,Plasmablastic Lymphoma,Lymphoid,Mature B-Cell Neoplasms
+92,GHCD,Gamma Heavy-Chain Disease,Lymphoid,Mature B-Cell Neoplasms
+93,EBVDLBCLNOS,"EBV Positive DLBCL, NOS",Lymphoid,Mature B-Cell Neoplasms
+94,LBLIRF4,Large B-Cell Lymphoma with IRF4 Rearrangement,Lymphoid,Mature B-Cell Neoplasms
+95,EP,Extraosseous Plasmacytoma,Lymphoid,Mature B-Cell Neoplasms
+96,PTFL,Pediatric-Type Follicular Lymphoma,Lymphoid,Mature B-Cell Neoplasms
+97,HCL,Hairy Cell Leukemia,Lymphoid,Mature B-Cell Neoplasms
+98,HGBCLMYCBCL2,"High-Grade B-Cell Lymphoma, with MYC and BCL2 and/or BCL6 Rearrangements",Lymphoid,Mature B-Cell Neoplasms
+99,THRLBCL,T-Cell/Histiocyte-Rich Large B-Cell Lymphoma,Lymphoid,Mature B-Cell Neoplasms
+100,DLBCLNOS,"Diffuse Large B-Cell Lymphoma, NOS",Lymphoid,Mature B-Cell Neoplasms
+101,ABC,Activated B-cell Type,Lymphoid,Mature B-Cell Neoplasms
+102,GCB,Germinal Center B-Cell Type,Lymphoid,Mature B-Cell Neoplasms
+103,IVBCL,Intravascular Large B-Cell Lymphoma,Lymphoid,Mature B-Cell Neoplasms
+104,PEL,Primary Effusion Lymphoma,Lymphoid,Mature B-Cell Neoplasms
+105,ALKLBCL,ALK Positive Large B-Cell Lymphoma,Lymphoid,Mature B-Cell Neoplasms
+106,MCL,Mantle Cell Lymphoma,Lymphoid,Mature B-Cell Neoplasms
+107,ISMCL,In Situ Mantle Cell Neoplasia,Lymphoid,Mature B-Cell Neoplasms
+108,MIDD,Monoclonal Immunoglobulin Deposition Diseases,Lymphoid,Mature B-Cell Neoplasms
+109,MIDDO,"Monoclonal Immunoglobulin Deposition Diseases, Other",Lymphoid,Mature B-Cell Neoplasms
+110,MIDDA,Amyloidosis,Lymphoid,Mature B-Cell Neoplasms
+111,PCM,Plasma Cell Myeloma,Lymphoid,Mature B-Cell Neoplasms
+112,MZL,Marginal Zone Lymphoma,Lymphoid,Mature B-Cell Neoplasms
+113,EMALT,Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue (MALT lymphoma),Lymphoid,Mature B-Cell Neoplasms
+114,NMZL,Nodal Marginal Zone Lymphoma,Lymphoid,Mature B-Cell Neoplasms
+115,SMZL,Splenic Marginal Zone Lymphoma,Lymphoid,Mature B-Cell Neoplasms
+116,SBLU,"Splenic B-Cell Lymphoma/Leukemia, Unclassifiable",Lymphoid,Mature B-Cell Neoplasms
+117,HCL-V,Hairy Cell Leukemia-Variant,Lymphoid,Mature B-Cell Neoplasms
+118,SDRPL,Splenic Diffuse Red Pulp Small B-Cell Lymphoma,Lymphoid,Mature B-Cell Neoplasms
+119,MTNN,Mature T and NK Neoplasms,Lymphoid,Mature T and NK Neoplasms
+120,ITLPDGI,Indolent T-Cell Lymphoproliferative Disorder of the GI Tract,Lymphoid,Mature T and NK Neoplasms
+121,PCAECTCL,Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma,Lymphoid,Mature T and NK Neoplasms
+122,PTCL,"Peripheral T-Cell lymphoma, NOS",Lymphoid,Mature T and NK Neoplasms
+123,ALCL,Anaplastic Large Cell Lymphoma,Lymphoid,Mature T and NK Neoplasms
+124,BIALCL,Breast Implant-Associated Anaplastic Large-Cell Lymphoma,Lymphoid,Mature T and NK Neoplasms
+125,ALCLALKP,Anaplastic Large-Cell Lymphoma ALK Positive,Lymphoid,Mature T and NK Neoplasms
+126,ALCLALKN,Anaplastic Large-Cell Lymphoma ALK Negative,Lymphoid,Mature T and NK Neoplasms
+127,SEBVTLC,Systemic EBV Positive T-Cell Lymphoma of Childhood,Lymphoid,Mature T and NK Neoplasms
+128,HSTCL,Hepatosplenic T-cell Lymphoma,Lymphoid,Mature T and NK Neoplasms
+129,ANKL,Aggressive NK-Cell Leukemia,Lymphoid,Mature T and NK Neoplasms
+130,FTCL,Follicular T-Cell Lymphoma,Lymphoid,Mature T and NK Neoplasms
+131,TPLL,T-Cell Prolymphocytic Leukemia,Lymphoid,Mature T and NK Neoplasms
+132,PCATCL,Primary Cutaneous Acral CD8 Positive T-Cell Lymphoma,Lymphoid,Mature T and NK Neoplasms
+133,SS,Sezary Syndrome,Lymphoid,Mature T and NK Neoplasms
+134,PCGDTCL,Primary Cutaneous Gamma Delta T-Cell Lymphoma,Lymphoid,Mature T and NK Neoplasms
+135,PCSMTPLD,Primary Cutaneous CD4 Positive Small/Medium T-Cell Lymphoproliferative Disorder,Lymphoid,Mature T and NK Neoplasms
+136,ENKL,"Extranodal NK-/T-Cell Lymphoma, Nasal Type",Lymphoid,Mature T and NK Neoplasms
+137,PCLPD,Primary Cutaneous CD30 Positive T-Cell Lymphoproliferative Disorders,Lymphoid,Mature T and NK Neoplasms
+138,PCALCL,Primary Cutaneous Anaplastic Large Cell Lymphoma,Lymphoid,Mature T and NK Neoplasms
+139,LYP,Lymphomatoid Papulosis,Lymphoid,Mature T and NK Neoplasms
+140,MYCF,Mycosis Fungoides,Lymphoid,Mature T and NK Neoplasms
+141,HVLL,Hydroa Vacciniforme Like Lymphoproliferative Disorder,Lymphoid,Mature T and NK Neoplasms
+142,ATLL,Adult T-Cell Leukemia/Lymphoma,Lymphoid,Mature T and NK Neoplasms
+143,NPTLTFH,Nodal Peripheral T-Cell Lymphoma with TFH Phenotype,Lymphoid,Mature T and NK Neoplasms
+144,CLPDNK,Chronic Lymphoproliferative Disorder of NK Cells,Lymphoid,Mature T and NK Neoplasms
+145,EATL,Enteropathy-Associated T-Cell Lymphoma,Lymphoid,Mature T and NK Neoplasms
+146,MEITL,Monomorphic Epitheliotropic Intestinal T-Cell Lymphoma,Lymphoid,Mature T and NK Neoplasms
+147,SPTCL,Subcutaneous Panniculitis-Like T-Cell Lymphoma,Lymphoid,Mature T and NK Neoplasms
+148,TLGL,T-Cell Large Granular Lymphocytic Leukemia,Lymphoid,Mature T and NK Neoplasms
+149,AITL,Angioimmunoblastic T-Cell Lymphoma,Lymphoid,Mature T and NK Neoplasms
+150,HL,Hodgkin Lymphoma,Lymphoid,Hodgkin Lymphoma
+151,NLPHL,Nodular Lymphocyte-Predominant Hodgkin Lymphoma,Lymphoid,Hodgkin Lymphoma
+152,CHL,Classical Hodgkin Lymphoma,Lymphoid,Hodgkin Lymphoma
+153,LDCHL,Lymphocyte-Depleted Classical Hodgkin Lymphoma,Lymphoid,Hodgkin Lymphoma
+154,NSCHL,Nodular Sclerosis Classical Hodgkin Lymphoma,Lymphoid,Hodgkin Lymphoma
+155,LRCHL,Lymphocyte-Rich Classical Hodgkin Lymphoma,Lymphoid,Hodgkin Lymphoma
+156,MCCHL,Mixed Cellularity Classical Hodgkin Lymphoma,Lymphoid,Hodgkin Lymphoma
+157,TLL,T-Lymphoblastic Leukemia/Lymphoma,Lymphoid,T-Lymphoblastic Leukemia/Lymphoma
+158,NKCLL,Natural Killer (NK) Cell Lymphoblastic Leukemia/Lymphoma,Lymphoid,T-Lymphoblastic Leukemia/Lymphoma
+159,ETPLL,Early T-Cell Precursor Lymphoblastic Leukemia,Lymphoid,T-Lymphoblastic Leukemia/Lymphoma
+160,LATL,Lymphoid Atypical,Lymphoid,"Lymphatic Cancer, NOS"
+161,LBGN,Lymphoid Benign,Lymphoid,"Lymphatic Cancer, NOS"
+162,SOFT_TISSUE,Soft Tissue,Soft Tissue,Soft Tissue Cancer
+163,LM,Leiomyoma,Soft Tissue,Soft Tissue Cancer
+164,MPC,Myopericytoma,Soft Tissue,Soft Tissue Sarcoma
+165,LGFMS,Low-Grade Fibromyxoid Sarcoma,Soft Tissue,Soft Tissue Sarcoma
+166,TGCT,Tenosynovial Giant Cell Tumor Diffuse Type,Soft Tissue,Soft Tissue Sarcoma
+167,AFH,Angiomatoid Fibrous Histiocytoma,Soft Tissue,Angiomatoid Fibrous Histiocytoma
+168,RAS,Radiation-Associated Sarcoma,Soft Tissue,Soft Tissue Sarcoma
+169,INTS,Intimal Sarcoma,Soft Tissue,Soft Tissue Sarcoma
+170,MYXO,Myxoma,Soft Tissue,Soft Tissue Sarcoma
+171,OFMT,Ossifying Fibromyxoid Tumor,Soft Tissue,Soft Tissue Sarcoma
+172,ANGS,Angiosarcoma,Soft Tissue,Soft Tissue Sarcoma
+173,ALT,Atypical Lipomatous Tumor,Soft Tissue,Soft Tissue Sarcoma
+174,SYNS,Synovial Sarcoma,Soft Tissue,Soft Tissue Sarcoma
+175,STMYEC,Soft Tissue Myoepithelial Carcinoma,Soft Tissue,Soft Tissue Sarcoma
+176,MFH,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Soft Tissue,Soft Tissue Sarcoma
+177,PGNG,Paraganglioma,Soft Tissue,Miscellaneous Neuroepithelial Tumor
+178,IFS,Infantile Fibrosarcoma,Soft Tissue,Infantile Fibrosarcoma
+179,MF,Myofibroma,Soft Tissue,Soft Tissue Sarcoma
+180,PECOMA,Perivascular Epithelioid Cell Tumor,Soft Tissue,Soft Tissue Sarcoma
+181,MFS,Myxofibrosarcoma,Soft Tissue,Soft Tissue Sarcoma
+182,LIPO,Liposarcoma,Soft Tissue,Soft Tissue Sarcoma
+183,DDLS,Dedifferentiated Liposarcoma,Soft Tissue,Soft Tissue Sarcoma
+184,MRLS,Myxoid/Round-Cell Liposarcoma,Soft Tissue,Soft Tissue Sarcoma
+185,WDLS,Well-Differentiated Liposarcoma,Soft Tissue,Soft Tissue Sarcoma
+186,PLLS,Pleomorphic Liposarcoma,Soft Tissue,Soft Tissue Sarcoma
+187,MGST,Malignant Glomus Tumor,Soft Tissue,Malignant Glomus Tumor
+188,PMHE,Pseudomyogenic Hemangioendothelioma,Soft Tissue,Soft Tissue Sarcoma
+189,AA,Aggressive Angiomyxoma,Soft Tissue,Soft Tissue Sarcoma
+190,SFT,Solitary Fibrous Tumor/Hemangiopericytoma,Soft Tissue,Soft Tissue Sarcoma
+191,SARCNOS,"Sarcoma, NOS",Soft Tissue,Soft Tissue Sarcoma
+192,GIST,Gastrointestinal Stromal Tumor,Soft Tissue,Gastrointestinal Stromal Tumor
+193,EHAE,Epithelioid Hemangioendothelioma,Soft Tissue,Soft Tissue Sarcoma
+194,ASPS,Alveolar Soft Part Sarcoma,Soft Tissue,Soft Tissue Sarcoma
+195,GS,Glomangiosarcoma,Soft Tissue,Soft Tissue Sarcoma
+196,IMS,Myofibromatosis,Soft Tissue,Myofibromatosis
+197,ESST,Ewing Sarcoma of Soft Tissue,Soft Tissue,Soft Tissue Sarcoma
+198,HEMA,Hemangioma,Soft Tissue,Soft Tissue Sarcoma
+199,IMT,Inflammatory Myofibroblastic Tumor,Soft Tissue,Soft Tissue Sarcoma
+200,DSRCT,Desmoplastic Small-Round-Cell Tumor,Soft Tissue,Soft Tissue Sarcoma
+201,CCS,Clear Cell Sarcoma,Soft Tissue,Soft Tissue Sarcoma
+202,LMS,Leiomyosarcoma,Soft Tissue,Soft Tissue Sarcoma
+203,DES,Desmoid/Aggressive Fibromatosis,Soft Tissue,Soft Tissue Sarcoma
+204,FIBS,Fibrosarcoma,Soft Tissue,Soft Tissue Sarcoma
+205,SEF,Sclerosing Epithelioid Fibrosarcoma,Soft Tissue,Soft Tissue Sarcoma
+206,RCSNOS,"Round Cell Sarcoma, NOS",Soft Tissue,Soft Tissue Sarcoma
+207,EPIS,Epithelioid Sarcoma,Soft Tissue,Soft Tissue Sarcoma
+208,PTES,Proximal-Type Epithelioid Sarcoma,Soft Tissue,Soft Tissue Sarcoma
+209,DCS,Dendritic Cell Sarcoma,Soft Tissue,Soft Tissue Sarcoma
+210,HDCS,Histiocytic Dendritic Cell Sarcoma,Soft Tissue,Soft Tissue Sarcoma
+211,RMS,Rhabdomyosarcoma,Soft Tissue,Soft Tissue Sarcoma
+212,ARMS,Alveolar Rhabdomyosarcoma,Soft Tissue,Soft Tissue Sarcoma
+213,SCRMS,Spindle Cell Rhabdomyosarcoma,Soft Tissue,Soft Tissue Sarcoma
+214,ERMS,Embryonal Rhabdomyosarcoma,Soft Tissue,Soft Tissue Sarcoma
+215,SCSRMS,Spindle Cell/Sclerosing Rhabdomyosarcoma,Soft Tissue,Soft Tissue Sarcoma
+216,PLRMS,Pleomorphic Rhabdomyosarcoma,Soft Tissue,Soft Tissue Sarcoma
+217,THYROID,Thyroid,Thyroid,Thyroid Cancer
+218,OAT,Oncocytic Adenoma of the Thyroid,Thyroid,Thyroid Cancer
+219,THAP,Anaplastic Thyroid Cancer,Thyroid,Thyroid Cancer
+220,WDTC,Well-Differentiated Thyroid Cancer,Thyroid,Thyroid Cancer
+221,THPA,Papillary Thyroid Cancer,Thyroid,Thyroid Cancer
+222,THFO,Follicular Thyroid Cancer,Thyroid,Thyroid Cancer
+223,THHC,Hurthle Cell Thyroid Cancer,Thyroid,Thyroid Cancer
+224,THME,Medullary Thyroid Cancer,Thyroid,Thyroid Cancer
+225,HTAT,Hyalinizing Trabecular Adenoma of the Thyroid,Thyroid,Thyroid Cancer
+226,THPD,Poorly Differentiated Thyroid Cancer,Thyroid,Thyroid Cancer
+227,PLEURA,Pleura,Pleura,Pleural Cancer
+228,PLMESO,Pleural Mesothelioma,Pleura,Mesothelioma
+229,PLBMESO,"Pleural Mesothelioma, Biphasic Type",Pleura,Mesothelioma
+230,PLEMESO,"Pleural Mesothelioma, Epithelioid Type",Pleura,Mesothelioma
+231,PLSMESO,"Pleural Mesothelioma, Sarcomatoid Type",Pleura,Mesothelioma
+232,PANCREAS,Pancreas,Pancreas,Pancreatic Cancer
+233,SPN,Solid Pseudopapillary Neoplasm of the Pancreas,Pancreas,Pancreatic Cancer
+234,PAAD,Pancreatic Adenocarcinoma,Pancreas,Pancreatic Cancer
+235,PB,Pancreatoblastoma,Pancreas,Pancreatic Cancer
+236,UCP,Undifferentiated Carcinoma of the Pancreas,Pancreas,Pancreatic Cancer
+237,OSGCT,Osteoclastic Giant Cell Tumor,Pancreas,Pancreatic Cancer
+238,PAASC,Adenosquamous Carcinoma of the Pancreas,Pancreas,Pancreatic Cancer
+239,PAAC,Acinar Cell Carcinoma of the Pancreas,Pancreas,Pancreatic Cancer
+240,PACT,Cystic Tumor of the Pancreas,Pancreas,Pancreatic Cancer
+241,PSC,Serous Cystadenoma of the Pancreas,Pancreas,Pancreatic Cancer
+242,MCN,Mucinous Cystic Neoplasm,Pancreas,Pancreatic Cancer
+243,IPMN,Intraductal Papillary Mucinous Neoplasm,Pancreas,Pancreatic Cancer
+244,ITPN,Intraductal Tubulopapillary Neoplasm,Pancreas,Pancreatic Cancer
+245,IOPN,Intraductal Oncocytic Papillary Neoplasm,Pancreas,Pancreatic Cancer
+246,PANET,Pancreatic Neuroendocrine Tumor,Pancreas,Pancreatic Cancer
+247,PANEC,Pancreatic Neuroendocrine Carcinoma,Pancreas,Pancreatic Cancer
+248,BILIARY_TRACT,Biliary Tract,Biliary Tract,Biliary Tract Cancer
+249,IPN,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,Hepatobiliary Cancer
+250,CHOL,Cholangiocarcinoma,Biliary Tract,Hepatobiliary Cancer
+251,EHCH,Extrahepatic Cholangiocarcinoma,Biliary Tract,Hepatobiliary Cancer
+252,PHCH,Perihilar Cholangiocarcinoma,Biliary Tract,Hepatobiliary Cancer
+253,IHCH,Intrahepatic Cholangiocarcinoma,Biliary Tract,Hepatobiliary Cancer
+254,ICPN,Intracholecystic Papillary Neoplasm,Biliary Tract,Hepatobiliary Cancer
+255,GBC,Gallbladder Cancer,Biliary Tract,Hepatobiliary Cancer
+256,GBASC,Adenosquamous Carcinoma of the Gallbladder,Biliary Tract,Hepatobiliary Cancer
+257,SCGBC,Small Cell Gallbladder Carcinoma,Biliary Tract,Hepatobiliary Cancer
+258,GBAD,"Gallbladder Adenocarcinoma, NOS",Biliary Tract,Hepatobiliary Cancer
+259,BREAST,Breast,Breast,Breast Cancer
+260,BNNOS,"Breast Neoplasm, NOS",Breast,Breast Cancer
+261,PBS,Breast Sarcoma,Breast,Breast Sarcoma
+262,BA,Breast Angiosarcoma,Breast,Breast Sarcoma
+263,BRAME,Adenomyoepithelioma of the Breast,Breast,Breast Cancer
+264,BRCA,Invasive Breast Carcinoma,Breast,Breast Cancer
+265,ILC,Breast Invasive Lobular Carcinoma,Breast,Breast Cancer
+266,BRCANOS,"Breast Invasive Cancer, NOS",Breast,Breast Cancer
+267,BRSRCC,Breast Carcinoma with Signet Ring,Breast,Breast Cancer
+268,CSNOS,"Breast Invasive Carcinosarcoma, NOS",Breast,Breast Cancer
+269,SPC,Solid Papillary Carcinoma of the Breast,Breast,Breast Cancer
+270,IMMC,Breast Invasive Mixed Mucinous Carcinoma,Breast,Breast Cancer
+271,IDC,Breast Invasive Ductal Carcinoma,Breast,Breast Cancer
+272,MDLC,Breast Mixed Ductal and Lobular Carcinoma,Breast,Breast Cancer
+273,BRCNOS,"Breast Invasive Carcinoma, NOS",Breast,Breast Cancer
+274,ACBC,Adenoid Cystic Breast Cancer,Breast,Breast Cancer
+275,LCIS,Breast Lobular Carcinoma In Situ,Breast,Breast Cancer
+276,DCIS,Breast Ductal Carcinoma In Situ,Breast,Breast Cancer
+277,PD,Paget Disease of the Nipple,Breast,Breast Cancer
+278,JSCB,Juvenile Secretory Carcinoma of the Breast,Breast,Breast Cancer
+279,BFN,Breast Fibroepithelial Neoplasms,Breast,Breast Sarcoma
+280,PT,Phyllodes Tumor of the Breast,Breast,Breast Sarcoma
+281,MPT,Malignant Phyllodes Tumor of the Breast,Breast,Breast Sarcoma
+282,BLPT,Borderline Phyllodes Tumor of the Breast,Breast,Breast Sarcoma
+283,BPT,Benign Phyllodes Tumor of the Breast,Breast,Breast Sarcoma
+284,FA,Fibroadenoma,Breast,Breast Sarcoma
+285,IBC,Inflammatory Breast Cancer,Breast,Breast Cancer
+286,MBC,Metaplastic Breast Cancer,Breast,Breast Cancer
+287,MMBC,Mixed Type Metaplastic Breast Cancer,Breast,Breast Cancer
+288,COM,Carcinoma with Osseous Metaplasia,Breast,Breast Cancer
+289,MCS,Metaplastic Carcinosarcoma,Breast,Breast Cancer
+290,CCHM,Carcinoma with Chondroid Metaplasia,Breast,Breast Cancer
+291,EMBC,Epithelial Type Metaplastic Breast Cancer,Breast,Breast Cancer
+292,MASCC,Metaplastic Adenocarcinoma with Spindle Cell Differentiation,Breast,Breast Cancer
+293,MSCC,Metaplastic Squamous Cell Carcinoma,Breast,Breast Cancer
+294,MASC,Metaplastic Adenosquamous Carcinoma,Breast,Breast Cancer
+295,HEAD_NECK,Head and Neck,Head and Neck,Head and Neck Cancer
+296,NPC,Nasopharyngeal Carcinoma,Head and Neck,Head and Neck Cancer
+297,HNMUCM,Head and Neck Mucosal Melanoma,Head and Neck,Melanoma
+298,PTH,Parathyroid Cancer,Head and Neck,Parathyroid Cancer
+299,PTHC,Parathyroid Carcinoma,Head and Neck,Parathyroid Cancer
+300,HNSC,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck Cancer
+301,OCSC,Oral Cavity Squamous Cell Carcinoma,Head and Neck,Head and Neck Cancer
+302,OPHSC,Oropharynx Squamous Cell Carcinoma,Head and Neck,Head and Neck Cancer
+303,HPHSC,Hypopharynx Squamous Cell Carcinoma,Head and Neck,Head and Neck Cancer
+304,SNSC,Sinonasal Squamous Cell Carcinoma,Head and Neck,Head and Neck Cancer
+305,LXSC,Larynx Squamous Cell Carcinoma,Head and Neck,Head and Neck Cancer
+306,HNSCUP,Head and Neck Squamous Cell Carcinoma of Unknown Primary,Head and Neck,Head and Neck Cancer
+307,OHNCA,"Head and Neck Carcinoma, Other",Head and Neck,Head and Neck Cancer
+308,ODGC,Odontogenic Carcinoma,Head and Neck,Head and Neck Cancer
+309,CCOC,Clear Cell Odontogenic Carcinoma,Head and Neck,Head and Neck Cancer
+310,NMCHN,NUT Midline Carcinoma of the Head and Neck,Head and Neck,Head and Neck Cancer
+311,SNA,Sinonasal Adenocarcinoma,Head and Neck,Head and Neck Cancer
+312,EMYOCA,Epithelial-Myoepithelial Carcinoma,Head and Neck,Head and Neck Cancer
+313,HNNE,Head and Neck Neuroendocrine Carcinoma,Head and Neck,Head and Neck Cancer
+314,ASCT,Adenosquamous Carcinoma of the Tongue,Head and Neck,Head and Neck Cancer
+315,SNUC,Sinonasal Undifferentiated Carcinoma,Head and Neck,Head and Neck Cancer
+316,SACA,Salivary Carcinoma,Head and Neck,Salivary Gland Cancer
+317,OSACA,"Salivary Carcinoma, Other",Head and Neck,Salivary Gland Cancer
+318,HNMASC,Mammary Analogue Secretory Carcinoma of Salivary Gland Origin,Head and Neck,Salivary Gland Cancer
+319,SDCA,Salivary Duct Carcinoma,Head and Neck,Salivary Gland Cancer
+320,PADA,Pleomorphic Adenoma,Head and Neck,Salivary Gland Cancer
+321,CAEXPA,Carcinoma ex Pleomorphic Adenoma,Head and Neck,Salivary Gland Cancer
+322,MUCC,Mucoepidermoid Carcinoma,Head and Neck,Salivary Gland Cancer
+323,MYEC,Myoepithelial Carcinoma,Head and Neck,Salivary Gland Cancer
+324,ACYC,Adenoid Cystic Carcinoma,Head and Neck,Salivary Gland Cancer
+325,PAC,Polymorphous Adenocarcinoma,Head and Neck,Salivary Gland Cancer
+326,SAAD,Salivary Adenocarcinoma,Head and Neck,Salivary Gland Cancer
+327,SGO,Salivary Gland Oncocytoma,Head and Neck,Salivary Gland Cancer
+328,ACCC,Acinic Cell Carcinoma,Head and Neck,Salivary Gland Cancer
+329,BCAC,Basal Cell Adenocarcinoma,Head and Neck,Salivary Gland Cancer
+330,SBL,Sialoblastoma,Head and Neck,Sialoblastoma
+331,EYE,Eye,Eye,Eye Cancer
+332,LGT,Lacrimal Gland Tumor,Eye,Lacrimal Gland Tumor
+333,SCLG,Squamous Cell Carcinoma of the Lacrimal Gland,Eye,Lacrimal Gland Tumor
+334,ACLG,Adenoid Cystic Carcinoma of the Lacrimal Gland,Eye,Lacrimal Gland Tumor
+335,RBL,Retinoblastoma,Eye,Retinoblastoma
+336,OM,Ocular Melanoma,Eye,Melanoma
+337,UM,Uveal Melanoma,Eye,Melanoma
+338,CM,Conjunctival Melanoma,Eye,Melanoma
+339,AMPULLA_OF_VATER,Ampulla of Vater,Ampulla of Vater,Ampullary Carcinoma
+340,AMPCA,Ampullary Carcinoma,Ampulla of Vater,Ampullary Cancer
+341,IAMPCA,Intestinal Ampullary Carcinoma,Ampulla of Vater,Ampullary Cancer
+342,MAMPCA,Mixed Ampullary Carcinoma,Ampulla of Vater,Ampullary Cancer
+343,PAMPCA,Pancreatobiliary Ampullary Carcinoma,Ampulla of Vater,Ampullary Cancer
+344,THYMUS,Thymus,Thymus,Thymic Cancer
+345,TET,Thymic Epithelial Tumor,Thymus,Thymic Tumor
+346,THYC,Thymic Carcinoma,Thymus,Thymic Tumor
+347,THYM,Thymoma,Thymus,Thymic Tumor
+348,TNET,Thymic Neuroendocrine Tumor,Thymus,Thymic Tumor
+349,CERVIX,Cervix,Cervix,Cervical Cancer
+350,CABC,Cervical Adenoid Basal Carcinoma,Cervix,Cervical Cancer
+351,CELI,Cervical Leiomyosarcoma,Cervix,Cervical Cancer
+352,CACC,Cervical Adenoid Cystic Carcinoma,Cervix,Cervical Cancer
+353,CENE,Cervical Neuroendocrine Tumor,Cervix,Cervical Cancer
+354,CERMS,Cervical Rhabdomyosarcoma,Cervix,Cervical Cancer
+355,CEAS,Cervical Adenosquamous Carcinoma,Cervix,Cervical Cancer
+356,CESC,Cervical Squamous Cell Carcinoma,Cervix,Cervical Cancer
+357,SCCE,Small Cell Carcinoma of the Cervix,Cervix,Cervical Cancer
+358,CEGCC,Glassy Cell Carcinoma of the Cervix,Cervix,Cervical Cancer
+359,CEAIS,Cervical Adenocarcinoma In Situ,Cervix,Cervical Cancer
+360,CEAD,Cervical Adenocarcinoma,Cervix,Cervical Cancer
+361,ECAD,Endocervical Adenocarcinoma,Cervix,Cervical Cancer
+362,CEEN,Cervical Endometrioid Carcinoma,Cervix,Cervical Cancer
+363,CEMU,Mucinous Carcinoma,Cervix,Cervical Cancer
+364,SCEMU,Signet Ring Mucinous Carcinoma,Cervix,Cervical Cancer
+365,GCEMU,Gastric Type Mucinous Carcinoma,Cervix,Cervical Cancer
+366,ICEMU,Intestinal Type Mucinous Carcinoma,Cervix,Cervical Cancer
+367,CESE,Cervical Serous Carcinoma,Cervix,Cervical Cancer
+368,CEMN,Mesonephric Carcinoma,Cervix,Cervical Cancer
+369,CEVG,Villoglandular Carcinoma,Cervix,Cervical Cancer
+370,CECC,Cervical Clear Cell Carcinoma,Cervix,Cervical Cancer
+371,VGCE,Villoglandular Adenocarcinoma of the Cervix,Cervix,Cervical Cancer
+372,MCCE,Mixed Cervical Carcinoma,Cervix,Cervical Cancer
+373,PNS,Peripheral Nervous System,Peripheral Nervous System,Peripheral Nervous System Cancer
+374,GNBL,Ganglioneuroblastoma,Peripheral Nervous System,Peripheral Nervous System
+375,NBL,Neuroblastoma,Peripheral Nervous System,Peripheral Nervous System
+376,NST,Nerve Sheath Tumor,Peripheral Nervous System,Nerve Sheath Tumor
+377,NFIB,Neurofibroma,Peripheral Nervous System,Nerve Sheath Tumor
+378,SCHW,Schwannoma,Peripheral Nervous System,Nerve Sheath Tumor
+379,CSCHW,Cellular Schwannoma,Peripheral Nervous System,Nerve Sheath Tumor
+380,MSCHW,Melanotic Schwannoma,Peripheral Nervous System,Nerve Sheath Tumor
+381,MPNST,Malignant Peripheral Nerve Sheath Tumor,Peripheral Nervous System,Nerve Sheath Tumor
+382,GN,Ganglioneuroma,Peripheral Nervous System,Peripheral Nervous System
+383,BOWEL,Bowel,Bowel,Bowel Cancer
+384,GINET,Gastrointestinal Neuroendocrine Tumors,Bowel,Gastrointestinal Neuroendocrine Tumor
+385,RWDNET,Well-Differentiated Neuroendocrine Tumor of the Rectum,Bowel,Gastrointestinal Neuroendocrine Tumor
+386,AWDNET,Well-Differentiated Neuroendocrine Tumor of the Appendix,Bowel,Gastrointestinal Neuroendocrine Tumor
+387,HGNEC,High-Grade Neuroendocrine Carcinoma of the Colon and Rectum,Bowel,Gastrointestinal Neuroendocrine Tumor
+388,SBWDNET,Small Bowel Well-Differentiated Neuroendocrine Tumor,Bowel,Gastrointestinal Neuroendocrine Tumor
+389,ANSC,Anal Squamous Cell Carcinoma,Bowel,Anal Cancer
+390,LAMN,Low-grade Appendiceal Mucinous Neoplasm,Bowel,Appendiceal Cancer
+391,SBC,Small Bowel Cancer,Bowel,Small Bowel Cancer
+392,DA,Duodenal Adenocarcinoma,Bowel,Small Bowel Cancer
+393,TAC,Tubular Adenoma of the Colon,Bowel,Tubular Adenoma of the Colon
+394,CMC,Medullary Carcinoma of the Colon,Bowel,Colorectal Cancer
+395,AGA,Anal Gland Adenocarcinoma,Bowel,Anal Cancer
+396,APAD,Appendiceal Adenocarcinoma,Bowel,Appendiceal Cancer
+397,MAAP,Mucinous Adenocarcinoma of the Appendix,Bowel,Appendiceal Cancer
+398,CTAAP,Colonic Type Adenocarcinoma of the Appendix,Bowel,Appendiceal Cancer
+399,SRAP,Signet Ring Cell Type of the Appendix,Bowel,Appendiceal Cancer
+400,GCCAP,Goblet Cell Adenocarcinoma of the Appendix,Bowel,Appendiceal Cancer
+401,SIC,Small Intestinal Carcinoma,Bowel,Small Bowel Cancer
+402,ARMM,Anorectal Mucosal Melanoma,Bowel,Melanoma
+403,COADREAD,Colorectal Adenocarcinoma,Bowel,Colorectal Cancer
+404,READ,Rectal Adenocarcinoma,Bowel,Colorectal Cancer
+405,MACR,Mucinous Adenocarcinoma of the Colon and Rectum,Bowel,Colorectal Cancer
+406,COAD,Colon Adenocarcinoma,Bowel,Colorectal Cancer
+407,SRCCR,Signet Ring Cell Adenocarcinoma of the Colon and Rectum,Bowel,Colorectal Cancer
+408,CAIS,Colon Adenocarcinoma In Situ,Bowel,Colorectal Cancer
+409,BONE,Bone,Bone,Bone Cancer
+410,CHBL,Chondroblastoma,Bone,Bone Cancer
+411,CHDM,Chordoma,Bone,Bone Cancer
+412,DDCHDM,Dedifferentiated Chordoma,Bone,Bone Cancer
+413,CCHDM,Conventional Type Chordoma,Bone,Bone Cancer
+414,OS,Osteosarcoma,Bone,Bone Cancer
+415,HGSOS,High-Grade Surface Osteosarcoma,Bone,Bone Cancer
+416,PAOS,Parosteal Osteosarcoma,Bone,Bone Cancer
+417,SCOS,Small Cell Osteosarcoma,Bone,Bone Cancer
+418,TEOS,Telangiectatic Osteosarcoma,Bone,Bone Cancer
+419,CHOS,Chondroblastic Osteosarcoma,Bone,Bone Cancer
+420,SECOS,Secondary Osteosarcoma,Bone,Bone Cancer
+421,FIOS,Fibroblastic Osteosarcoma,Bone,Bone Cancer
+422,LGCOS,Low-Grade Central Osteosarcoma,Bone,Bone Cancer
+423,PEOS,Periosteal Osteosarcoma,Bone,Bone Cancer
+424,OSOS,Osteoblastic Osteosarcoma,Bone,Bone Cancer
+425,ADMA,Adamantinoma,Bone,Bone Cancer
+426,GCTB,Giant Cell Tumor of Bone,Bone,Bone Cancer
+427,ES,Ewing Sarcoma,Bone,Bone Cancer
+428,CHS,Chondrosarcoma,Bone,Bone Cancer
+429,DDCHS,Dedifferentiated Chondrosarcoma,Bone,Bone Cancer
+430,MYCHS,Myxoid Chondrosarcoma,Bone,Bone Cancer
+431,MCHS,Mesenchymal Chondrosarcoma,Bone,Bone Cancer
+432,EMCHS,Extraskeletal Myxoid Chondrosarcoma,Bone,Bone Cancer
+433,SKIN,Skin,Skin,Skin Cancer
+434,SPIR,Spiroma/Spiradenoma,Skin,"Skin Cancer, Non-Melanoma"
+435,DFSP,Dermatofibrosarcoma Protuberans,Skin,"Skin Cancer, Non-Melanoma"
+436,DF,Dermatofibroma,Skin,"Skin Cancer, Non-Melanoma"
+437,BCC,Basal Cell Carcinoma,Skin,"Skin Cancer, Non-Melanoma"
+438,EMPSGC,Endocrine Mucin Producing Sweat Gland Carcinoma,Skin,"Skin Cancer, Non-Melanoma"
+439,ADPA,Aggressive Digital Papillary Adenocarcinoma,Skin,"Skin Cancer, Non-Melanoma"
+440,MCC,Merkel Cell Carcinoma,Skin,"Skin Cancer, Non-Melanoma"
+441,AN,Atypical Nevus,Skin,"Skin Cancer, Non-Melanoma"
+442,MAC,Microcystic Adnexal Carcinoma,Skin,"Skin Cancer, Non-Melanoma"
+443,CSCC,Cutaneous Squamous Cell Carcinoma,Skin,"Skin Cancer, Non-Melanoma"
+444,SGAD,Sweat Gland Adenocarcinoma,Skin,"Skin Cancer, Non-Melanoma"
+445,AFX,Atypical Fibroxanthoma,Skin,"Skin Cancer, Non-Melanoma"
+446,DTE,Desmoplastic Trichoepithelioma,Skin,"Skin Cancer, Non-Melanoma"
+447,PPCT,Proliferating Pilar Cystic Tumor,Skin,"Skin Cancer, Non-Melanoma"
+448,MEL,Melanoma,Skin,Melanoma
+449,SKLMM,Lentigo Maligna Melanoma,Skin,Melanoma
+450,ACRM,Acral Melanoma,Skin,Melanoma
+451,SKCM,Cutaneous Melanoma,Skin,Melanoma
+452,DESM,Desmoplastic Melanoma,Skin,Melanoma
+453,SKCN,Congenital Nevus,Skin,Melanoma
+454,SPZM,Spitzoid Melanoma,Skin,Melanoma
+455,MUP,Melanoma of Unknown Primary,Skin,Melanoma
+456,SEBA,Sebaceous Carcinoma,Skin,"Skin Cancer, Non-Melanoma"
+457,POCA,Porocarcinoma/Spiroadenocarcinoma,Skin,"Skin Cancer, Non-Melanoma"
+458,PORO,Poroma/Acrospiroma,Skin,"Skin Cancer, Non-Melanoma"
+459,EMPD,Extramammary Paget Disease,Skin,"Skin Cancer, Non-Melanoma"
+460,SKAC,Skin Adnexal Carcinoma,Skin,"Skin Cancer, Non-Melanoma"
+461,AECA,Sweat Gland Carcinoma/Apocrine Eccrine Carcinoma,Skin,"Skin Cancer, Non-Melanoma"
+462,BLADDER,Bladder/Urinary Tract,Bladder/Urinary Tract,Bladder/Urinary Tract Cancer
+463,BLSC,Bladder Squamous Cell Carcinoma,Bladder/Urinary Tract,Bladder Cancer
+464,IUP,Inverted Urothelial Papilloma,Bladder/Urinary Tract,Bladder Cancer
+465,UPA,Urothelial Papilloma,Bladder/Urinary Tract,Bladder Cancer
+466,UTUC,Upper Tract Urothelial Carcinoma,Bladder/Urinary Tract,Bladder Cancer
+467,IMTB,Inflammatory Myofibroblastic Bladder Tumor,Bladder/Urinary Tract,Bladder Cancer
+468,SRCBC,Plasmacytoid/Signet Ring Cell Bladder Carcinoma,Bladder/Urinary Tract,Bladder Cancer
+469,BLAD,Bladder Adenocarcinoma,Bladder/Urinary Tract,Bladder Cancer
+470,UCA,Urethral Cancer,Bladder/Urinary Tract,Bladder Cancer
+471,USCC,Urethral Squamous Cell Carcinoma,Bladder/Urinary Tract,Bladder Cancer
+472,UAD,Urethral Adenocarcinoma,Bladder/Urinary Tract,Bladder Cancer
+473,UCU,Urethral Urothelial Carcinoma,Bladder/Urinary Tract,Bladder Cancer
+474,SCB,Sarcomatoid Carcinoma of the Urinary Bladder,Bladder/Urinary Tract,Bladder Cancer
+475,BLCA,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,Bladder Cancer
+476,SCBC,Small Cell Bladder Cancer,Bladder/Urinary Tract,Bladder Cancer
+477,URMM,Mucosal Melanoma of the Urethra,Bladder/Urinary Tract,Melanoma
+478,URCA,Urachal Carcinoma,Bladder/Urinary Tract,Bladder Cancer
+479,UA,Urachal Adenocarcinoma,Bladder/Urinary Tract,Bladder Cancer
+480,BRAIN,CNS/Brain,CNS/Brain,CNS/Brain Cancer
+481,EPMT,Ependymomal Tumor,CNS/Brain,CNS Cancer
+482,SUBE,Subependymoma,CNS/Brain,CNS Cancer
+483,MPE,Myxopapillary Ependymoma,CNS/Brain,CNS Cancer
+484,EPM,Ependymoma,CNS/Brain,Glioma
+485,CCE,Clear Cell Ependymoma,CNS/Brain,CNS Cancer
+486,APE,Anaplastic Ependymoma,CNS/Brain,CNS Cancer
+487,MNET,Miscellaneous Neuroepithelial Tumor,CNS/Brain,Miscellaneous Neuroepithelial Tumor
+488,CLNC,Cerebellar Liponeurocytoma,CNS/Brain,Miscellaneous Neuroepithelial Tumor
+489,DIG,Desmoplastic Infantile Ganglioglioma,CNS/Brain,Miscellaneous Neuroepithelial Tumor
+490,CHGL,Chordoid Glioma of the Third Ventricle,CNS/Brain,Miscellaneous Neuroepithelial Tumor
+491,PGNT,Papillary Glioneuronal Tumor,CNS/Brain,Miscellaneous Neuroepithelial Tumor
+492,CNC,Central Neurocytoma,CNS/Brain,Miscellaneous Neuroepithelial Tumor
+493,ANGL,Angiocentric Glioma,CNS/Brain,Miscellaneous Neuroepithelial Tumor
+494,EVN,Extraventricular Neurocytoma,CNS/Brain,Miscellaneous Neuroepithelial Tumor
+495,DIA,Desmoplastic Infantile Astrocytoma,CNS/Brain,Miscellaneous Neuroepithelial Tumor
+496,RGNT,Rosette-forming Glioneuronal Tumor of the Fourth Ventricle,CNS/Brain,Miscellaneous Neuroepithelial Tumor
+497,LDD,Dysplastic Gangliocytoma of the Cerebellum/Lhermitte-Duclos Disease,CNS/Brain,Miscellaneous Neuroepithelial Tumor
+498,ASTB,Astroblastoma,CNS/Brain,Miscellaneous Neuroepithelial Tumor
+499,DIFG,Diffuse Glioma,CNS/Brain,Glioma
+500,ODG,Oligodendroglioma,CNS/Brain,Glioma
+501,AASTR,Anaplastic Astrocytoma,CNS/Brain,Glioma
+502,OAST,Oligoastrocytoma,CNS/Brain,Glioma
+503,DASTR,Diffuse Astrocytoma,CNS/Brain,Glioma
+504,GNOS,"Glioma, NOS",CNS/Brain,Glioma
+505,GB,Glioblastoma,CNS/Brain,Glioma
+506,GSARC,Gliosarcoma,CNS/Brain,Glioma
+507,SCGBM,Small Cell Glioblastoma,CNS/Brain,Glioma
+508,GBM,Glioblastoma Multiforme,CNS/Brain,Glioma
+509,HGGNOS,"High-Grade Glioma, NOS",CNS/Brain,Glioma
+510,AOAST,Anaplastic Oligoastrocytoma,CNS/Brain,Glioma
+511,DIPG,Diffuse Intrinsic Pontine Glioma,CNS/Brain,Glioma
+512,ASTR,Astrocytoma,CNS/Brain,Glioma
+513,AODG,Anaplastic Oligodendroglioma,CNS/Brain,Glioma
+514,CPT,Choroid Plexus Tumor,CNS/Brain,Choroid Plexus Tumor
+515,ACPP,Atypical Choroid Plexus Papilloma,CNS/Brain,Choroid Plexus Tumor
+516,CPP,Choroid Plexus Papilloma,CNS/Brain,Choroid Plexus Tumor
+517,CPC,Choroid Plexus Carcinoma,CNS/Brain,Choroid Plexus Tumor
+518,PCNSMT,Primary CNS Melanocytic Tumors,CNS/Brain,Primary CNS Melanocytic Tumors
+519,PCNSM,Primary CNS Melanoma,CNS/Brain,Melanoma
+520,MELC,Melanocytoma,CNS/Brain,Melanocytoma
+521,BGCT,"Germ Cell Tumor, Brain",CNS/Brain,Germ Cell Tumor
+522,BCCA,Choriocarcinoma,CNS/Brain,Germ Cell Tumor
+523,BEC,Embryonal Carcinoma,CNS/Brain,Germ Cell Tumor
+524,BIMT,Immature Teratoma,CNS/Brain,Germ Cell Tumor
+525,BYST,Yolk Sac Tumor,CNS/Brain,Germ Cell Tumor
+526,BMGT,Malignant Teratoma,CNS/Brain,Germ Cell Tumor
+527,BMT,Mature Teratoma,CNS/Brain,Germ Cell Tumor
+528,GMN,Germinoma,CNS/Brain,Germ Cell Tumor
+529,BMGCT,Mixed Germ Cell Tumor,CNS/Brain,Germ Cell Tumor
+530,PINT,Pineal Tumor,CNS/Brain,Pineal Tumor
+531,PTPR,Papillary Tumor of the Pineal Region,CNS/Brain,Pineal Tumor
+532,PPTID,Pineal Parenchymal Tumor of Intermediate Differentiation,CNS/Brain,Pineal Tumor
+533,PINC,Pineocytoma,CNS/Brain,Pineal Tumor
+534,PBL,Pineoblastoma,CNS/Brain,Pineal Tumor
+535,MNGT,Meningothelial Tumor,CNS/Brain,CNS Cancer
+536,ANM,Anaplastic Meningioma,CNS/Brain,CNS Cancer
+537,SFTCNS,Solitary Fibrous Tumor of the Central Nervous System,CNS/Brain,CNS Cancer
+538,RHM,Rhabdoid Meningioma,CNS/Brain,CNS Cancer
+539,MNG,Meningioma,CNS/Brain,CNS Cancer
+540,ATM,Atypical Meningioma,CNS/Brain,CNS Cancer
+541,CCM,Clear cell Meningioma,CNS/Brain,CNS Cancer
+542,CHOM,Chordoid Meningioma,CNS/Brain,CNS Cancer
+543,PPM,Papillary Meningioma,CNS/Brain,CNS Cancer
+544,HPCCNS,Hemangiopericytoma of the Central Nervous System,CNS/Brain,CNS Cancer
+545,EMBT,Embryonal Tumor,CNS/Brain,Embryonal Tumor
+546,MMB,Medullomyoblastoma,CNS/Brain,Embryonal Tumor
+547,DMBL,Desmoplastic/Nodular Medulloblastoma,CNS/Brain,Embryonal Tumor
+548,DMBLNOS,"Desmoplastic/Nodular Medulloblastoma, NOS",CNS/Brain,Desmoplastic/Nodular Medulloblastoma
+549,DMBLSHH,"Desmoplastic/Nodular Medulloblastoma, SHH Subtype",CNS/Brain,Desmoplastic/Nodular Medulloblastoma
+550,MDEP,Medulloepithelioma,CNS/Brain,Embryonal Tumor
+551,MBL,Medulloblastoma,CNS/Brain,Embryonal Tumor
+552,MBLNOS,"Medulloblastoma, NOS",CNS/Brain,Medulloblastoma
+553,MBLNWS,"Medulloblastoma, Non-WNT, Non-SHH",CNS/Brain,Medulloblastoma
+554,MBLG4,"Medulloblastoma, Group 4",CNS/Brain,Medulloblastoma
+555,MBLG3,"Medulloblastoma, Group 3",CNS/Brain,Medulloblastoma
+556,MBLWNT,"Medulloblastoma, WNT Subtype",CNS/Brain,Medulloblastoma
+557,MBLSHH,"Medulloblastoma, SHH Subtype",CNS/Brain,Medulloblastoma
+558,ETANTR,Embryonal Tumor with Abundant Neuropil and True Rosettes,CNS/Brain,Embryonal Tumor
+559,PNET,Primitive Neuroectodermal Tumor,CNS/Brain,Embryonal Tumor
+560,AMBL,Large Cell/Anaplastic Medulloblastoma,CNS/Brain,Embryonal Tumor
+561,AMBLSHH,"Anaplastic Medulloblastoma, SHH Subtype",CNS/Brain,Large Cell/Anaplastic Medulloblastoma
+562,AMBLNOS,"Anaplastic Medulloblastoma, NOS",CNS/Brain,Large Cell/Anaplastic Medulloblastoma
+563,AMBLNWS,"Anaplastic Medulloblastoma, Non-WNT, Non-SHH",CNS/Brain,Large Cell/Anaplastic Medulloblastoma
+564,AMBLNWSG3,"Anaplastic Medulloblastoma, Group 3",CNS/Brain,Large Cell/Anaplastic Medulloblastoma
+565,AMBLNWSG4,"Anaplastic Medulloblastoma, Group 4",CNS/Brain,Large Cell/Anaplastic Medulloblastoma
+566,MBEN,Medulloblastoma with Extensive Nodularity,CNS/Brain,Embryonal Tumor
+567,MBENNOS,"Medulloblastoma with Extensive Nodularity, NOS",CNS/Brain,Medulloblastoma with Extensive Nodularity
+568,MBENSHH,"Medulloblastoma with Extensive Nodularity, SHH Subtype",CNS/Brain,Medulloblastoma with Extensive Nodularity
+569,ATRT,Atypical Teratoid/Rhabdoid Tumor,CNS/Brain,Embryonal Tumor
+570,ONBL,Olfactory Neuroblastoma,CNS/Brain,Embryonal Tumor
+571,MMBL,Melanotic Medulloblastoma,CNS/Brain,Embryonal Tumor
+572,SELT,Sellar Tumor,CNS/Brain,Sellar Tumor
+573,APTAD,Atypical Pituitary Adenoma,CNS/Brain,Sellar Tumor
+574,PTAD,Pituitary Adenoma,CNS/Brain,Sellar Tumor
+575,SCOAH,Spindle Cell Oncocytoma of the Adenohypophysis,CNS/Brain,Sellar Tumor
+576,PTCA,Pituitary Carcinoma,CNS/Brain,Sellar Tumor
+577,ACPG,"Craniopharyngioma, Adamantinomatous Type",CNS/Brain,Sellar Tumor
+578,PCGP,"Craniopharyngioma, Papillary Type",CNS/Brain,Sellar Tumor
+579,GCT,Granular Cell Tumor,CNS/Brain,Sellar Tumor
+580,PTCY,Pituicytoma,CNS/Brain,Sellar Tumor
+581,ENCG,Encapsulated Glioma,CNS/Brain,Glioma
+582,AGNG,Anaplastic Ganglioglioma,CNS/Brain,Glioma
+583,GNG,Ganglioglioma,CNS/Brain,Glioma
+584,PMA,Pilomyxoid Astrocytoma,CNS/Brain,Glioma
+585,APXA,Anaplastic Pleomorphic Xanthoastrocytoma,CNS/Brain,Glioma
+586,PAST,Pilocytic Astrocytoma,CNS/Brain,Glioma
+587,PXA,Pleomorphic Xanthoastrocytoma,CNS/Brain,Glioma
+588,DNT,Dysembryoplastic Neuroepithelial Tumor,CNS/Brain,Glioma
+589,LGGNOS,"Low-Grade Glioma, NOS",CNS/Brain,Glioma
+590,GNC,Gangliocytoma,CNS/Brain,Glioma
+591,MBT,Miscellaneous Brain Tumor,CNS/Brain,Miscellaneous Brain Tumor
+592,LGNET,Low-Grade Neuroepithelial Tumor,CNS/Brain,Miscellaneous Brain Tumor
+593,PBT,Primary Brain Tumor,CNS/Brain,Miscellaneous Brain Tumor
+594,PRNET,Primary Neuroepithelial Tumor,CNS/Brain,Miscellaneous Brain Tumor
+595,HGNET,High-Grade Neuroepithelial Tumor,CNS/Brain,Miscellaneous Brain Tumor
+596,MCHSCNS,Mesenchymal Chondrosarcoma of the CNS,CNS/Brain,Miscellaneous Brain Tumor
+597,MLYM,Malignant Lymphoma,CNS/Brain,Miscellaneous Brain Tumor
+598,MT,Malignant Tumor,CNS/Brain,Miscellaneous Brain Tumor
+599,HMBL,Hemangioblastoma,CNS/Brain,Miscellaneous Brain Tumor
+600,ADRENAL_GLAND,Adrenal Gland,Adrenal Gland,Adrenal Gland Cancer
+601,ACC,Adrenocortical Carcinoma,Adrenal Gland,Adrenocortical Carcinoma
+602,PHC,Pheochromocytoma,Adrenal Gland,Pheochromocytoma
+603,ACA,Adrenocortical Adenoma,Adrenal Gland,Adrenocortical Adenoma
+604,PROSTATE,Prostate,Prostate,Prostate Cancer
+605,PRAD,Prostate Adenocarcinoma,Prostate,Prostate Cancer
+606,BCCP,Basal Cell Carcinoma of Prostate,Prostate,Prostate Cancer
+607,PRSCC,Prostate Small Cell Carcinoma,Prostate,Prostate Cancer
+608,PRNE,Prostate Neuroendocrine Carcinoma,Prostate,Prostate Cancer
+609,PRSC,Prostate Squamous Cell Carcinoma,Prostate,Prostate Cancer
+610,LUNG,Lung,Lung,Lung Cancer
+611,LNET,Lung Neuroendocrine Tumor,Lung,Non-Small Cell Lung Cancer
+612,SCLC,Small Cell Lung Cancer,Lung,Small Cell Lung Cancer
+613,LUNE,Large Cell Neuroendocrine Carcinoma,Lung,Non-Small Cell Lung Cancer
+614,LUCA,Lung Carcinoid,Lung,Non-Small Cell Lung Cancer
+615,ALUCA,Atypical Lung Carcinoid,Lung,Non-Small Cell Lung Cancer
+616,PPB,Pleuropulmonary Blastoma,Lung,Non-Small Cell Lung Cancer
+617,NSCLC,Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer
+618,CMPT,Ciliated Muconodular Papillary Tumor of the Lung,Lung,Non-Small Cell Lung Cancer
+619,NUTCL,NUT Carcinoma of the Lung,Lung,Non-Small Cell Lung Cancer
+620,NSCLCPD,Poorly Differentiated Non-Small Cell Lung Cancer,Lung,Non-Small Cell Lung Cancer
+621,LUAS,Lung Adenosquamous Carcinoma,Lung,Non-Small Cell Lung Cancer
+622,LUSC,Lung Squamous Cell Carcinoma,Lung,Non-Small Cell Lung Cancer
+623,SGTTL,Salivary Gland-Type Tumor of the Lung,Lung,Non-Small Cell Lung Cancer
+624,LUMEC,Mucoepidermoid Carcinoma of the Lung,Lung,Non-Small Cell Lung Cancer
+625,LUACC,Adenoid Cystic Carcinoma of the Lung,Lung,Non-Small Cell Lung Cancer
+626,SPCC,Spindle Cell Carcinoma of the Lung,Lung,Non-Small Cell Lung Cancer
+627,LCLC,Large Cell Lung Carcinoma,Lung,Non-Small Cell Lung Cancer
+628,CCLC,Clear Cell Carcinoma of the Lung,Lung,Non-Small Cell Lung Cancer
+629,GCLC,Giant Cell Carcinoma of the Lung,Lung,Non-Small Cell Lung Cancer
+630,BLCLC,Basaloid Large Cell Carcinoma of the Lung,Lung,Non-Small Cell Lung Cancer
+631,LECLC,Lymphoepithelioma-like Carcinoma of the Lung,Lung,Non-Small Cell Lung Cancer
+632,RLCLC,Large Cell Lung Carcinoma With Rhabdoid Phenotype,Lung,Non-Small Cell Lung Cancer
+633,LUAD,Lung Adenocarcinoma,Lung,Non-Small Cell Lung Cancer
+634,LUPC,Pleomorphic Carcinoma of the Lung,Lung,Non-Small Cell Lung Cancer
+635,LAM,Pulmonary Lymphangiomyomatosis,Lung,Non-Small Cell Lung Cancer
+636,LAIS,Lung Adenocarcinoma In Situ,Lung,Non-Small Cell Lung Cancer
+637,CSCLC,Combined Small Cell Lung Carcinoma,Lung,Small Cell Lung Cancer
+638,SARCL,Sarcomatoid Carcinoma of the Lung,Lung,Non-Small Cell Lung Cancer
+639,IMTL,Inflammatory Myofibroblastic Lung Tumor,Lung,Non-Small Cell Lung Cancer
+640,PENIS,Penis,Penis,Penile Cancer
+641,PSCC,Penile Squamous Cell Carcinoma,Penis,Penile Cancer
+642,VPSCC,Verrucous Penile Squamous Cell Carcinoma,Penis,Penile Cancer
+643,WPSCC,Warty Penile Squamous Cell Carcinoma,Penis,Penile Cancer
+644,BPSCC,Basaloid Penile Squamous Cell Carcinoma,Penis,Penile Cancer
+645,UTERUS,Uterus,Uterus,Uterine Cancer
+646,USARC,Uterine Sarcoma/Mesenchymal,Uterus,Uterine Sarcoma
+647,UUS,Undifferentiated Uterine Sarcoma,Uterus,Uterine Sarcoma
+648,USMT,Uterine Smooth Muscle Tumor,Uterus,Uterine Sarcoma
+649,ULMS,Uterine Leiomyosarcoma,Uterus,Uterine Sarcoma
+650,UMLMS,Uterine Myxoid Leiomyosarcoma,Uterus,Uterine Sarcoma
+651,UELMS,Uterine Epithelioid Leiomyosarcoma,Uterus,Uterine Sarcoma
+652,ULM,Uterine Leiomyoma,Uterus,Uterine Sarcoma
+653,USTUMP,Uterine Smooth Muscle Tumor of Uncertain Malignant Potential,Uterus,Uterine Sarcoma
+654,UPECOMA,Uterine Perivascular Epithelioid Cell Tumor,Uterus,Uterine Sarcoma
+655,ESS,Endometrial Stromal Sarcoma,Uterus,Uterine Sarcoma
+656,HGESS,High-Grade Endometrial Stromal Sarcoma,Uterus,Uterine Sarcoma
+657,LGESS,Low-Grade Endometrial Stromal Sarcoma,Uterus,Uterine Sarcoma
+658,OUSARC,"Uterine Sarcoma, Other",Uterus,Uterine Sarcoma
+659,UAS,Uterine Adenosarcoma,Uterus,Uterine Sarcoma
+660,OUTT,Other Uterine Tumor,Uterus,Endometrial Cancer
+661,UCEC,Endometrial Carcinoma,Uterus,Endometrial Cancer
+662,UNEC,Uterine Neuroendocrine Carcinoma,Uterus,Endometrial Cancer
+663,UMEC,Uterine Mixed Endometrial Carcinoma,Uterus,Endometrial Cancer
+664,UUC,Uterine Undifferentiated Carcinoma,Uterus,Endometrial Cancer
+665,UEC,Uterine Endometrioid Carcinoma,Uterus,Endometrial Cancer
+666,USC,Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma,Uterus,Endometrial Cancer
+667,UCS,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor,Uterus,Endometrial Cancer
+668,UDDC,Uterine Dedifferentiated Carcinoma,Uterus,Endometrial Cancer
+669,UCCC,Uterine Clear Cell Carcinoma,Uterus,Endometrial Cancer
+670,UMC,Uterine Mucinous Carcinoma,Uterus,Endometrial Cancer
+671,UMNC,Uterine Mesonephric Carcinoma,Uterus,Endometrial Cancer
+672,UASC,Uterine Adenosquamous Carcinoma,Uterus,Endometrial Cancer
+673,UPDC,Poorly Differentiated Carcinoma of the Uterus,Uterus,Endometrial Cancer
+674,GTD,Gestational Trophoblastic Disease,Uterus,Gestational Trophoblastic Disease
+675,MP,Molar Pregnancy,Uterus,Gestational Trophoblastic Disease
+676,PHM,Partial Hydatidiform Mole,Uterus,Gestational Trophoblastic Disease
+677,CHM,Complete Hydatidiform Mole,Uterus,Gestational Trophoblastic Disease
+678,IHM,Invasive Hydatidiform Mole,Uterus,Gestational Trophoblastic Disease
+679,UCCA,Choriocarcinoma,Uterus,Gestational Trophoblastic Disease
+680,ETT,Epithelioid Trophoblastic Tumor,Uterus,Gestational Trophoblastic Disease
+681,PSTT,Placental Site Trophoblastic Tumor,Uterus,Gestational Trophoblastic Disease
+682,OTHER,Other,Other,Other Cancer
+683,EGCT,Extra Gonadal Germ Cell Tumor,Other,Germ Cell Tumor
+684,AIS,Adenocarcinoma In Situ,Other,Adenocarcinoma In Situ
+685,MIXED,Mixed Cancer Types,Other,Cancer of Unknown Primary
+686,CUP,Cancer of Unknown Primary,Other,Cancer of Unknown Primary
+687,NECNOS,"Neuroendocrine Carcinoma, NOS",Other,Cancer of Unknown Primary
+688,UDMN,Undifferentiated Malignant Neoplasm,Other,Cancer of Unknown Primary
+689,NETNOS,"Neuroendocrine Tumor, NOS",Other,Cancer of Unknown Primary
+690,ADNOS,"Adenocarcinoma, NOS",Other,Cancer of Unknown Primary
+691,ACN,"Acinar Cell Carcinoma, NOS",Other,Cancer of Unknown Primary
+692,CUPNOS,"Cancer of Unknown Primary, NOS",Other,Cancer of Unknown Primary
+693,SCUP,Small Cell Carcinoma of Unknown Primary,Other,Cancer of Unknown Primary
+694,SCCNOS,"Squamous Cell Carcinoma, NOS",Other,Cancer of Unknown Primary
+695,PDC,"Poorly Differentiated Carcinoma, NOS",Other,Cancer of Unknown Primary
+696,TESTIS,Testis,Testis,Testicular Cancer
+697,NSGCT,Non-Seminomatous Germ Cell Tumor,Testis,Germ Cell Tumor
+698,TT,Teratoma,Testis,Germ Cell Tumor
+699,EMBCA,Embryonal Carcinoma,Testis,Germ Cell Tumor
+700,TYST,Yolk Sac Tumor,Testis,Germ Cell Tumor
+701,TCCA,Choriocarcinoma,Testis,Germ Cell Tumor
+702,GCTSTM,Germ Cell Tumor with Somatic-Type Malignancy,Testis,Germ Cell Tumor
+703,MGCT,Mixed Germ Cell Tumor,Testis,Germ Cell Tumor
+704,SEM,Seminoma,Testis,Germ Cell Tumor
+705,TSCST,Sex Cord Stromal Tumor,Testis,Sex Cord Stromal Tumor
+706,TMESO,Testicular Mesothelioma,Testis,Mesothelioma
+707,TLYM,Testicular Lymphoma,Testis,Non-Hodgkin Lymphoma
+708,LIVER,Liver,Liver,Liver Cancer
+709,LIAD,Hepatocellular Adenoma,Liver,Hepatobiliary Cancer
+710,LIMNET,Malignant Nonepithelial Tumor of the Liver,Liver,Hepatobiliary Cancer
+711,LIHB,Hepatoblastoma,Liver,Hepatobiliary Cancer
+712,HCC,Hepatocellular Carcinoma,Liver,Hepatobiliary Cancer
+713,MRTL,Malignant Rhabdoid Tumor of the Liver,Liver,Malignant Rhabdoid Tumor of the Liver
+714,HCCIHCH,Hepatocellular Carcinoma plus Intrahepatic Cholangiocarcinoma,Liver,Hepatobiliary Cancer
+715,FLC,Fibrolamellar Carcinoma,Liver,Hepatobiliary Cancer
+716,LIAS,Liver Angiosarcoma,Liver,Hepatobiliary Cancer
+717,UESL,Undifferentiated Embryonal Sarcoma of the Liver,Liver,Undifferentiated Embryonal Sarcoma of the Liver
+718,PERITONEUM,Peritoneum,Peritoneum,Peritoneal Cancer
+719,PSEC,Peritoneal Serous Carcinoma,Peritoneum,"Peritoneal Cancer, NOS"
+720,PEMESO,Peritoneal Mesothelioma,Peritoneum,Mesothelioma
+721,MYELOID,Myeloid,Myeloid,Blood Cancer
+722,MBGN,Myeloid Benign,Myeloid,"Blood Cancer, NOS"
+723,MNM,Myeloid Neoplasm,Myeloid,"Blood Cancer, NOS"
+724,AML,Acute Myeloid Leukemia,Myeloid,Leukemia
+725,AMLNOS,"AML, NOS",Myeloid,Leukemia
+726,AMKL,Acute Megakaryoblastic Leukemia,Myeloid,Leukemia
+727,AMML,Acute Myelomonocytic Leukemia,Myeloid,Leukemia
+728,APMF,Acute Panmyelosis with Myelofibrosis,Myeloid,Leukemia
+729,AWM,AML without Maturation,Myeloid,Leukemia
+730,AMOL,Acute Monoblastic/Monocytic Leukemia,Myeloid,Leukemia
+731,PERL,Pure Erythroid Leukemia,Myeloid,Leukemia
+732,ABL,Acute Basophilic Leukemia,Myeloid,Leukemia
+733,AM,AML with Maturation,Myeloid,Leukemia
+734,AMLMD,AML with Minimal Differentiation,Myeloid,Leukemia
+735,TMN,Therapy-Related Myeloid Neoplasms,Myeloid,Leukemia
+736,TAML,Therapy-Related Acute Myeloid Leukemia,Myeloid,Leukemia
+737,TMDS,Therapy-Related Myelodysplastic Syndrome,Myeloid,Leukemia
+738,MPRDS,Myeloid Proliferations Related to Down Syndrome,Myeloid,Leukemia
+739,TAM,Transient Abnormal Myelopoiesis,Myeloid,Leukemia
+740,MLADS,Myeloid Leukemia Associated with Down Syndrome,Myeloid,Leukemia
+741,AMLMRC,AML with Myelodysplasia-Related Changes,Myeloid,Leukemia
+742,MS,Myeloid Sarcoma,Myeloid,Leukemia
+743,AMLRGA,AML with Recurrent Genetic Abnormalities,Myeloid,Leukemia
+744,AMLGATA2MECOM,"AML with inv(3)(q21.3q26.2) or t(3;3)(q21.3;q26.2); GATA2, MECOM",Myeloid,Leukemia
+745,AMLBCRABL1,AML with BCR-ABL1,Myeloid,Leukemia
+746,AMLRARA,AML with Variant RARA translocation,Myeloid,Leukemia
+747,AMLCBFBMYH11,AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22);CBFB-MYH11,Myeloid,Leukemia
+748,AMLRBM15MKL1,AML (megakaryoblastic) with t(1;22)(p13.3;q13.3);RBM15-MKL1,Myeloid,Leukemia
+749,AMLRUNX1,AML with Mutated RUNX1,Myeloid,Leukemia
+750,AMLMLLT3KMT2A,AML with t(9;11)(p21.3;q23.3);MLLT3-KMT2A,Myeloid,Leukemia
+751,AMLDEKNUP214,AML with t(6;9)(p23;q34.1);DEK-NUP214,Myeloid,Leukemia
+752,AMLNPM1,AML with Mutated NPM1,Myeloid,Leukemia
+753,AMLRUNX1RUNX1T1,AML with t(8;21)(q22;q22.1);RUNX1-RUNX1T1,Myeloid,Leukemia
+754,AMLCEBPA,AML with Biallelic Mutations of CEBPA,Myeloid,Leukemia
+755,APLPMLRARA,APL with PML-RARA,Myeloid,Leukemia
+756,HDCN,Histiocytic and Dendritic Cell Neoplasms,Myeloid,Histiocytosis
+757,LCH,Langerhans Cell Histiocytosis,Myeloid,Histiocytosis
+758,RDD,Rosai-Dorfman Disease,Myeloid,Histiocytosis
+759,ECD,Erdheim-Chester Disease,Myeloid,Histiocytosis
+760,JXG,Disseminated Juvenile Xanthogranuloma,Myeloid,Histiocytosis
+761,IDCS,Interdigitating Dendritic Cell Sarcoma,Myeloid,Soft Tissue Sarcoma
+762,HS,Histiocytic Sarcoma,Myeloid,Histiocytosis
+763,FRCT,Fibroblastic Reticular Cell Tumor,Myeloid,Histiocytosis
+764,LCS,Langerhans Cell Sarcoma,Myeloid,Histiocytosis
+765,FDCS,Follicular Dendritic Cell Sarcoma,Myeloid,Soft Tissue Sarcoma
+766,IDCT,Indeterminate Dendritic Cell Tumor,Myeloid,Histiocytosis
+767,BPDCN,Blastic Plasmacytoid Dendritic Cell Neoplasm,Myeloid,Blastic Plasmacytoid Dendritic Cell Neoplasm
+768,ALAL,Acute Leukemias of Ambiguous Lineage,Myeloid,Leukemia
+769,MPALBNOS,"Mixed Phenotype Acute Leukemia, B/Myeloid, NOS",Myeloid,Leukemia
+770,AUL,Acute Undifferentiated Leukemia,Myeloid,Leukemia
+771,MPALBCRABL1,Mixed Phenotype Acute Leukemia with t(9;22)(q34.1;q11.2); BCR-ABL1,Myeloid,Leukemia
+772,MPALTNOS,"Mixed Phenotype Acute Leukemia, T/Myeloid, NOS",Myeloid,Leukemia
+773,MPALKMT2A,Mixed Phenotype Acute Leukemia with t(v;11q23.3); KMT2A Rearranged,Myeloid,Leukemia
+774,MDS/MPN,Myelodysplastic/Myeloproliferative Neoplasms,Myeloid,Myelodysplastic/Myeloproliferative Neoplasms
+775,JMML,Juvenile Myelomonocytic Leukemia,Myeloid,Myelodysplastic/Myeloproliferative Neoplasms
+776,MDSMPNU,"MDS/MPN, Unclassifiable",Myeloid,Myelodysplastic/Myeloproliferative Neoplasms
+777,CMML,Chronic Myelomonocytic Leukemia,Myeloid,Myelodysplastic/Myeloproliferative Neoplasms
+778,CMML1,Chronic Myelomonocytic Leukemia-1,Myeloid,Myelodysplastic/Myeloproliferative Neoplasms
+779,CMML2,Chronic Myelomonocytic Leukemia-2,Myeloid,Myelodysplastic/Myeloproliferative Neoplasms
+780,CMML0,Chronic Myelomonocytic Leukemia-0,Myeloid,Myelodysplastic/Myeloproliferative Neoplasms
+781,MDSMPNRST,MDS/MPN with Ring Sideroblasts and Thrombocytosis,Myeloid,Myelodysplastic/Myeloproliferative Neoplasms
+782,ACML,"Atypical Chronic Myeloid Leukemia, BCR-ABL1-",Myeloid,Myelodysplastic/Myeloproliferative Neoplasms
+783,MPN,Myeloproliferative Neoplasms,Myeloid,Myeloproliferative Neoplasms
+784,CNL,Chronic Neutrophilic Leukemia,Myeloid,Myeloproliferative Neoplasms
+785,CML,Chronic Myelogenous Leukemia,Myeloid,Myeloproliferative Neoplasms
+786,CMLBCRABL1,"Chronic Myeloid Leukemia, BCR-ABL1+",Myeloid,Myeloproliferative Neoplasms
+787,PV,Polycythemia Vera,Myeloid,Myeloproliferative Neoplasms
+788,PVMF,Polycythaemia Vera Myelofibrosis,Myeloid,Myeloproliferative Neoplasms
+789,PMF,Primary Myelofibrosis,Myeloid,Myeloproliferative Neoplasms
+790,PMFPES,"Primary Myelofibrosis, Prefibrotic/Early Stage",Myeloid,Myeloproliferative Neoplasms
+791,PMFOFS,"Primary Myelofibrosis,Overt Fibrotic Stage",Myeloid,Myeloproliferative Neoplasms
+792,CELNOS,"Chronic Eosinophilic Leukemia, NOS",Myeloid,Myeloproliferative Neoplasms
+793,MPNU,"Myeloproliferative Neoplasms, Unclassifiable",Myeloid,Myeloproliferative Neoplasms
+794,ET,Essential Thrombocythemia,Myeloid,Myeloproliferative Neoplasms
+795,ETMF,Essential Thrombocythemia Myelofibrosis,Myeloid,Myeloproliferative Neoplasms
+796,MNGLP,Myeloid Neoplasms with Germ Line Predisposition,Myeloid,Myeloid Neoplasms with Germ Line Predisposition
+797,MLNER,Myeloid/Lymphoid Neoplasms with Eosinophilia and Rearrangement of  PDGFRA/PDGFRB or FGFR1 or with PCM1-JAK2,Myeloid,Leukemia
+798,MLNPDGFRA,Myeloid/Lymphoid Neoplasms with PDGFRA Rearrangement,Myeloid,Leukemia
+799,MLNPDGFRB,Myeloid/Lymphoid Neoplasms with PDGFRB Rearrangement,Myeloid,Leukemia
+800,MLNFGFR1,Myeloid/Lymphoid Neoplasms with FGFR1 Rearrangement,Myeloid,Leukemia
+801,MLNPCM1JAK2,Myeloid/Lymphoid Neoplasms with PCM1-JAK2,Myeloid,Leukemia
+802,MDS,Myelodysplastic Syndromes,Myeloid,Myelodysplastic Syndromes
+803,MDSRS,MDS with Ring Sideroblasts,Myeloid,Myelodysplastic Syndromes
+804,MDSRSSLD,MDS with Ring Sideroblasts and Single Lineage Dysplasia,Myeloid,Myelodysplastic Syndromes
+805,MDSRSMD,MDS with Ring Sideroblasts and Multilineage Dysplasia,Myeloid,Myelodysplastic Syndromes
+806,MDSEB,MDS with Excess Blasts,Myeloid,Myelodysplastic Syndromes
+807,MDSEB1,MDS with excess blasts-1,Myeloid,Myelodysplastic Syndromes
+808,MDSEB2,MDS with excess blasts-2,Myeloid,Myelodysplastic Syndromes
+809,MDSSLD,MDS with Single Lineage Dysplasia,Myeloid,Myelodysplastic Syndromes
+810,MDSU,"MDS, Unclassifiable",Myeloid,Myelodysplastic Syndromes
+811,RCYC,Refractory Cytopenia of Childhood,Myeloid,Myelodysplastic Syndromes
+812,MDSMD,MDS with Multilineage Dysplasia,Myeloid,Myelodysplastic Syndromes
+813,MDSID5Q,MDS with Isolated Del(5q),Myeloid,Myelodysplastic Syndromes
+814,MCD,Mastocytosis,Myeloid,Mastocytosis
+815,CMCD,Cutaneous Mastocytosis,Myeloid,Mastocytosis
+816,SM,Systemic Mastocytosis,Myeloid,Mastocytosis
+817,SMAHN,Systemic Mastocytosis with an Associated Hematological Neoplasm,Myeloid,Mastocytosis
+818,SMMCL,Mast Cell Leukemia,Myeloid,Mastocytosis
+819,ISM,Indolent Systemic Mastocytosis,Myeloid,Mastocytosis
+820,ASM,Aggressive Systemic Mastocytosis,Myeloid,Mastocytosis
+821,SSM,Smoldering Systemic Mastocytosis,Myeloid,Mastocytosis
+822,MCSL,Mast Cell Sarcoma,Myeloid,Mastocytosis
+823,MATPL,Myeloid Atypical,Myeloid,"Blood Cancer, NOS"
+824,VULVA,Vulva/Vagina,Vulva/Vagina,Vulvar/Vaginal Cancer
+825,VPDC,Poorly Differentiated Vaginal Carcinoma,Vulva/Vagina,Vaginal Cancer
+826,VGCT,Germ Cell Tumor of the Vulva,Vulva/Vagina,Germ Cell Tumor
+827,VDYS,Dysgerminoma,Vulva/Vagina,Germ Cell Tumor
+828,VIMT,Immature Teratoma,Vulva/Vagina,Germ Cell Tumor
+829,VPE,Polyembryoma,Vulva/Vagina,Germ Cell Tumor
+830,VYST,Yolk Sac Tumor,Vulva/Vagina,Germ Cell Tumor
+831,VMT,Mature Teratoma,Vulva/Vagina,Germ Cell Tumor
+832,VMGCT,Mixed Germ Cell Tumor,Vulva/Vagina,Germ Cell Tumor
+833,VOEC,Embryonal Carcinoma,Vulva/Vagina,Germ Cell Tumor
+834,VA,Vaginal Adenocarcinoma,Vulva/Vagina,Vaginal Cancer
+835,VMA,Mucinous Adenocarcinoma of the Vulva/Vagina,Vulva/Vagina,Vulvar Carcinoma
+836,VMM,Mucosal Melanoma of the Vulva/Vagina,Vulva/Vagina,Melanoma
+837,VSC,Squamous Cell Carcinoma of the Vulva/Vagina,Vulva/Vagina,Vaginal Cancer
+838,KIDNEY,Kidney,Kidney,Kidney Cancer
+839,RCC,Renal Cell Carcinoma,Kidney,Renal Cell Carcinoma
+840,NCCRCC,Renal Non-Clear Cell Carcinoma,Kidney,Renal Cell Carcinoma
+841,CDRCC,Collecting Duct Renal Cell Carcinoma,Kidney,Renal Cell Carcinoma
+842,PRCC,Papillary Renal Cell Carcinoma,Kidney,Renal Cell Carcinoma
+843,RSCC,Renal Small Cell Carcinoma,Kidney,Renal Cell Carcinoma
+844,RAML,Renal Angiomyolipoma,Kidney,Renal Cell Carcinoma
+845,MTSCC,Renal Mucinous Tubular Spindle Cell Carcinoma,Kidney,Renal Cell Carcinoma
+846,FHRCC,FH-Deficient Renal Cell Carcinoma,Kidney,Renal Cell Carcinoma
+847,CCPRC,Clear Cell Papillary Renal Cell Carcinoma,Kidney,Renal Cell Carcinoma
+848,ROCY,Renal Oncocytoma,Kidney,Renal Cell Carcinoma
+849,TRCC,Translocation-Associated Renal Cell Carcinoma,Kidney,Renal Cell Carcinoma
+850,SRCC,Sarcomatoid Renal Cell Carcinoma,Kidney,Renal Cell Carcinoma
+851,URCC,Unclassified Renal Cell Carcinoma,Kidney,Renal Cell Carcinoma
+852,MRC,Renal Medullary Carcinoma,Kidney,Renal Cell Carcinoma
+853,CHRCC,Chromophobe Renal Cell Carcinoma,Kidney,Renal Cell Carcinoma
+854,CCRCC,Renal Clear Cell Carcinoma,Kidney,Renal Cell Carcinoma
+855,SCCRCC,Renal Clear Cell Carcinoma with Sarcomatoid Features,Kidney,Renal Cell Carcinoma
+856,WT,Wilms' Tumor,Kidney,Wilms Tumor
+857,RNET,Renal Neuroendocrine Tumor,Kidney,Renal Neuroendocrine Tumor
+858,MRT,Rhabdoid Cancer,Kidney,Rhabdoid Cancer
+859,CCSK,Clear Cell Sarcoma of Kidney,Kidney,Clear Cell Sarcoma of Kidney
+860,STOMACH,Esophagus/Stomach,Esophagus/Stomach,Esophageal/Stomach Cancer
+861,EGC,Esophagogastric Adenocarcinoma,Esophagus/Stomach,Esophagogastric Cancer
+862,STAD,Stomach Adenocarcinoma,Esophagus/Stomach,Esophagogastric Cancer
+863,PSTAD,Papillary Stomach Adenocarcinoma,Esophagus/Stomach,Esophagogastric Cancer
+864,MSTAD,Mucinous Stomach Adenocarcinoma,Esophagus/Stomach,Esophagogastric Cancer
+865,DSTAD,Diffuse Type Stomach Adenocarcinoma,Esophagus/Stomach,Esophagogastric Cancer
+866,ISTAD,Intestinal Type Stomach Adenocarcinoma,Esophagus/Stomach,Esophagogastric Cancer
+867,TSTAD,Tubular Stomach Adenocarcinoma,Esophagus/Stomach,Esophagogastric Cancer
+868,STAS,Adenosquamous Carcinoma of the Stomach,Esophagus/Stomach,Esophagogastric Cancer
+869,STSC,Small Cell Carcinoma of the Stomach,Esophagus/Stomach,Esophagogastric Cancer
+870,GRC,Gastric Remnant Adenocarcinoma,Esophagus/Stomach,Esophagogastric Cancer
+871,ESCA,Esophageal Adenocarcinoma,Esophagus/Stomach,Esophagogastric Cancer
+872,USTAD,Undifferentiated Stomach Adenocarcinoma,Esophagus/Stomach,Esophagogastric Cancer
+873,SSRCC,Signet Ring Cell Carcinoma of the Stomach,Esophagus/Stomach,Esophagogastric Cancer
+874,SPDAC,Poorly Differentiated Carcinoma of the Stomach,Esophagus/Stomach,Esophagogastric Cancer
+875,GEJ,Adenocarcinoma of the Gastroesophageal Junction,Esophagus/Stomach,Esophagogastric Cancer
+876,SMN,"Smooth Muscle Neoplasm, NOS",Esophagus/Stomach,Esophagogastric Cancer
+877,EPDCA,Esophageal Poorly Differentiated Carcinoma,Esophagus/Stomach,Esophagogastric Cancer
+878,GINETES,Gastrointestinal Neuroendocrine Tumors of the Esophagus/Stomach,Esophagus/Stomach,Esophagogastric Cancer
+879,SWDNET,Well-Differentiated Neuroendocrine Tumors of the Stomach,Esophagus/Stomach,Gastrointestinal Neuroendocrine Tumor
+880,HGNES,High-Grade Neuroendocrine Carcinoma of the Stomach,Esophagus/Stomach,Gastrointestinal Neuroendocrine Tumors of the Esophagus/Stomach
+881,HGNEE,High-Grade Neuroendocrine Carcinoma of the Esophagus,Esophagus/Stomach,Gastrointestinal Neuroendocrine Tumors of the Esophagus/Stomach
+882,ESCC,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,Esophagogastric Cancer
+883,ESMM,Mucosal Melanoma of the Esophagus,Esophagus/Stomach,Melanoma
